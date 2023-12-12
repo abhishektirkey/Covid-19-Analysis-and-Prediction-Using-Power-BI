@@ -7,11 +7,10 @@ https://github.com/CSSEGISandData/COVID-19
 
 ## Dashboard:
 
-**Covid-19 Prediction of the World**
-
+# Covid-19 Prediction of the World
 
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/49580063/111057749-d86b8380-84af-11eb-8218-d879f39abcdf.gif)
 
-**Covid-19 Prediction and Analysis of the India**
+# Covid-19 Prediction and Analysis of the India
 
 ![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/49580063/111057828-5465cb80-84b0-11eb-982b-0866f5ded656.gif)
