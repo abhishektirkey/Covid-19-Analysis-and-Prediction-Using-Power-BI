@@ -7,10 +7,12 @@ https://github.com/CSSEGISandData/COVID-19
 
 ## Dashboard:
 
-# Covid-19 Prediction of the World
+# GLOBAL
 
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/49580063/111057749-d86b8380-84af-11eb-8218-d879f39abcdf.gif)
+![GLOBAL Covid Dashboard](https://github.com/abhishektirkey/Covid-19-Analysis-and-Prediction-Using-Power-BI/assets/93339541/b25cdbcf-c670-4572-8bdd-2ce599e365d4)
 
-# Covid-19 Prediction and Analysis of the India
 
-![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/49580063/111057828-5465cb80-84b0-11eb-982b-0866f5ded656.gif)
+# INDIA
+
+![INDIA Covid Dashboard](https://github.com/abhishektirkey/Covid-19-Analysis-and-Prediction-Using-Power-BI/assets/93339541/de4ae2b3-cb6d-4fd7-b817-6dbf1571badc)
+
